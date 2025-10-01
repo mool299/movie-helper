@@ -1,0 +1,6 @@
+# Python кеши
+__pycache__/
+*.py[cod]
+# виртуальные окружения
+.venv/
+venv/
